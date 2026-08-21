@@ -7,7 +7,7 @@
 Beautiful booking pages · native Outlook and Google sync · a one-line embed ·
 a hosted MCP server for every user
 
-[intocal.com](https://intocal.com) · [Docs](https://intocal.com/docs) · [API](https://intocal.com/docs/api) · [MCP](https://intocal.com/mcp) · [llms.txt](https://intocal.com/llms.txt)
+[intocal.com](https://intocal.com) · [API docs](https://intocal.com/api-docs) · [OpenAPI](https://intocal.com/api/openapi.json) · [MCP](https://intocal.com/mcp) · [llms.txt](https://intocal.com/llms.txt)
 
 </div>
 
@@ -43,6 +43,7 @@ Works with Claude, ChatGPT, Cursor, Windsurf, Copilot, and anything else speakin
 | Repo | Contents |
 |---|---|
 | [**intocal**](https://github.com/Intocal/intocal) | The monorepo — packages, examples, and `AGENTS.md` |
+| [**mcp**](https://github.com/Intocal/mcp) | MCP server docs — hosted URL and client setup |
 
 ## Building with an AI assistant?
 

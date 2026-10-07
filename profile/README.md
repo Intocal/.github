@@ -2,7 +2,8 @@
 
 # IntoCal
 
-**Booking and scheduling infrastructure for humans, developers, and AI agents.**
+**Scheduling platform for people, teams and AI agents. Booking pages, Outlook/Google sync, embeds and AI bookings via MCP.
+**
 
 Beautiful booking pages · native Outlook and Google sync · a one-line embed ·
 a hosted MCP server for every user
